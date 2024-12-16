@@ -35,7 +35,7 @@ In this simulation, we will walk through the lifecycle of helpdesk tickets. Belo
   <img src="https://i.imgur.com/QjJatQ0.png" height="80%" width="80%" alt="user portal"/>
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/eed67ceb-8e24-4e0a-bd92-a33c2b2c65f5" height="80%" width="80%" alt="ticket 1 created"/>
+  <img src="https://imgur.com/kNiLFOU.png" height="80%" width="80%" alt="ticket 1 created"/>
 </p>
 
 - **Ticket Assignment**: As the issue is urgent (**Sev-A**), we assign it to the **Online Banking team**, where **Jane** will resolve and close the ticket.
